@@ -19,7 +19,7 @@
   <a href="https://discord.com/channels/@biaaaqw/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/sidnei.rds/">
+  <a href="https://www.instagram.com/biaaaqw/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
